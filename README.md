@@ -14,18 +14,6 @@ Mobile-first CSS (`css/style.css`) with breakpoints at 640px (tablet), 800px and
 ## Features
 Sticky navigation, hero section, floating WhatsApp button, delivery request form (Address, Food Type, Phone), contact form, Google Map, lazy-loaded images, SEO meta tags and structured data. HTML and CSS only, no JavaScript.
 
-## Folder structure
-```
-index.html ... contact.html   (pages)
-css/style.css                 (all styles, commented)
-favicon.svg, robots.txt, sitemap.xml
-screenshots/                  (add mobile, tablet, desktop screenshots here)
-```
-
-## Before publishing
-- Replace https://www.example.com in the HTML files, sitemap.xml and robots.txt with the real address.
-- Replace sample testimonials with real reviews; confirm 24-hour availability.
-- Replace the social media links in the footer.
 
 ## Photos
-Photos are hotlinked from Unsplash (placeholders). Swap in the restaurant's own photos when available.
+Photos are hotlinked from Unsplash (placeholders). 
